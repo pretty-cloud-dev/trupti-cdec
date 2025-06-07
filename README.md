@@ -1,2 +1,2 @@
 # trupti-cdec
-this is my first repo
+this is my first repo by trupti meshram
